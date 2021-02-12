@@ -11,5 +11,6 @@
         "Julie Nihouarn",
         "Carien M. van Reekum"
     ],
-    "Acknowledgements": "This research was supported by grants from the Biotechnology and Biological Sciences Research Council (BB/J009539/1 and BB/L02697X/1) awarded to Carien van Reekum."
+    "Acknowledgements": "This research was supported by grants from the Biotechnology and Biological Sciences Research Council (BB/J009539/1 and BB/L02697X/1) awarded to Carien van Reekum.",
+    "HowToAcknowledge": "When using these data, please cite the following paper: Lloyd, W. K. M., Morriss, J., Macdonald, B., Joanknecht, K., Nihouarn, J., & van Reekum, C. M. (2021). Longitudinal change in executive function is associated with impaired top-down frontolimbic regulation during reappraisal in older adults. NeuroImage, 225, 1053-8119. doi: http://dx.doi.org/10.1016/j.neuroimage.2020.117488 "
 }
